@@ -1,4 +1,6 @@
+### Tasks
+- [Issues:](https://github.com/orgs/bogapp-ai/projects/1)
 
 
-# Repositorios
-- [backend](https://github.com/bogapp-ai/backend): Voice Bot (cambiar nombre).
+### Repositorios
+- [Voice Bot:](https://github.com/bogapp-ai/backend) (cambiar nombre).
