@@ -3,4 +3,4 @@
 
 
 ### Repositorios
-- [Voice Bot](https://github.com/bogapp-ai/backend) (cambiar nombre al repo).
+- [Voice Bot](https://github.com/bogapp-ai/voice_bot) (cambiar nombre al repo).
